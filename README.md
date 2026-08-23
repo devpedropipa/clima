@@ -13,7 +13,7 @@ Este projeto foi desenvolvido com o objetivo de colocar em prática e consolidar
 
 ## O que aprendi nesse projeto
 
-Esse foi meu primeiro projeto usando React e Typescript.
+Esse foi meu primeiro projeto usando React e TypeScript.
 
 Nesse projeto aprendi:
 - Requisição e manipulação dos dados retornados da API;
@@ -23,11 +23,14 @@ Nesse projeto aprendi:
 ## Tecnologias utilizadas
 
 - React
-- Typescript
+- TypeScript
 - CSS
 - Git
-- API OpenWeather
 - Vite
+
+## API utilizada
+
+- OpenWeather
 
 ## Dependências e versões necessárias
 
