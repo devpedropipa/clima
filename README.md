@@ -1,4 +1,4 @@
-# Previsão do Tempo
+# Clima
 
 É um projeto que mostra o clima atual na sua região. Podendo ser bairro, cidade/estado ou país.
 
