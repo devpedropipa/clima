@@ -22,11 +22,12 @@ Nesse projeto aprendi:
 
 ## Tecnologias utilizadas
 
-- React + Vite
+- React
 - Typescript
 - CSS
 - Git
 - API OpenWeather
+- Vite
 
 ## Dependências e versões necessárias
 
