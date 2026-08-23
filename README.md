@@ -38,7 +38,7 @@ Nesse projeto aprendi:
 
 - Tenha uma IDE instalada.
 	- Recomendo o **VS Code**, pois é um programa leve e simples de usar.
-- Cadastre-se na <a href="https://openweathermap.org/" target="_blank">OpenWeather</a> para pegar uma **chave** gerada. O projeto utiliza essa chave para realizar as requisições à API.
+- Cadastre-se na [**OpenWeather**](https://openweathermap.org/) para pegar uma **chave** gerada. O projeto utiliza essa chave para realizar as requisições à API.
 
 #### Passo a passo
 
