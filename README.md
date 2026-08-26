@@ -69,6 +69,6 @@ Aguarde até que o comando seja concluído.
 npm run dev -- --host
 ```
 
-12. Copie a URL do Network e cole na barra de endereço do seu navegador.
+12. Copie a URL do Local/Network e cole na barra de endereço do seu navegador.
 
 Para acessar em outros dispositivos, use a URL do Network do projeto.
